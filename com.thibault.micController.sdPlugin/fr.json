@@ -1,0 +1,8 @@
+{
+  "Description": "Changez les paramètres de votre micro",
+  "Name": "Mic controller",
+  "com.thibault.micController.action": {
+    "Name": "Mic controller",
+    "Tooltip": "Changez les paramètres de votre micro, et controlez que rien ne change"
+  }
+}

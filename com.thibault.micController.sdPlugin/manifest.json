@@ -1,0 +1,39 @@
+{
+  "Actions": [
+    {
+      "Icon": "assets/icons/actionIcon",
+      "Name": "Mic controller",
+      "States": [
+        {
+          "Image": "assets/images/actionDefaultImage",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Change your mic settings",
+      "UUID": "com.thibault.micController.action"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Thibault",
+  "CodePath": "index.html",
+  "Description": "Change your mic settings, and control if the mic setting has changed",
+  "Name": "Mic controller",
+  "Icon": "assets/icons/pluginIcon",
+  "URL": "",
+  "Version": "1.4",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
